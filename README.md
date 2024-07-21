@@ -24,3 +24,16 @@ ollama create prollama -f ./Modelfile
 ```bash
 ollama run prollama
 ```
+
+
+## Resources
+
+ProLLaMA:
+
+- ProLLaMA arXiv preprint: https://arxiv.org/abs/2402.16445
+- ProLLaMA GitHub: https://github.com/PKU-YuanGroup/ProLLaMA
+- ProLLaMA HuggingFace Page: https://huggingface.co/GreatCaptainNemo/ProLLaMA
+
+Ollama:
+- Ollama Modelfile Specs: https://github.com/ollama/ollama/blob/main/docs/modelfile.md
+- Ollama API Info: https://github.com/ollama/ollama/blob/main/docs/api.md
